@@ -1,10 +1,11 @@
+window.VALENTINE_CONFIG = {
 valentineName: "Emi"                    // Your Valentine's name
 pageTitle: "Will You Be My Valentine? 💝" // Browser tab title
 
 // Floating Background Elements
 floatingEmojis: {
     hearts: ['❤️', '💖', '💝', '💗', '💓'] // Heart emojis in background
-    //bears: ['😻', '🦭']                       // Bear emojis in background
+    bears: ['😻', '🦭']                       // Bear emojis in background
 }
 
 // Questions and Buttons
@@ -67,3 +68,4 @@ music: {
     stopText: "🔇 Stop Music", // Button text to stop music
     volume: 0.5 // Volume level (0.0 to 1.0)
 }
+};
